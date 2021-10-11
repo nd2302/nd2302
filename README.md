@@ -1,6 +1,6 @@
 - Hi, I’m Nishant!
 - I’m interested in Data Science and UI/UX design.
-- I’m currently learning Data Science with Python.
+- I’m currently working on Competetive Coding and Personal Projects.
 - How to reach me: https://www.linkedin.com/in/nishant-dash-87339820a/
 
 <!---
